@@ -9,5 +9,6 @@ public class TestRunner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         System.out.println("It runs well enough!");
+        System.out.println("Neues Feature abgeschlossen");
     }
 }

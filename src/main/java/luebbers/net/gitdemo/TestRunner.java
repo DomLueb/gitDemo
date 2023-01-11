@@ -8,6 +8,7 @@ public class TestRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
+        System.out.println("Hotfix");
         System.out.println("It runs!");
     }
 }
